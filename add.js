@@ -1,4 +1,4 @@
-function add(a,b){
-    console.log('result is', a-b)
+function add(a,b,c){
+    console.log('result is', a+b+c)
  }
- add(10,20)
+ add(10,20,30)
